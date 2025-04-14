@@ -29,6 +29,7 @@ public class Player {
     private int matches_played;
     @Column(name = "starts" )
     private int starts;
+    //f
     @Column(name = "minutes_played" )
     private Double minutes_played;
     @Column(name = "goals" )
