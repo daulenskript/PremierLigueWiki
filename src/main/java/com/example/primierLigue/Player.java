@@ -32,6 +32,7 @@ public class Player {
     //f
     @Column(name = "minutes_played" )
     private Double minutes_played;
+    //вуву
     @Column(name = "goals" )
     private Double goals;
     @Column(name = "assist" )
